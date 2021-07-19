@@ -1,4 +1,4 @@
-
+<!--
 ooooooooo.   ooooooooo.         .oooooo..  ooooo                  ooo
 `888   `Y88. `888   `Y88.      d8P'    `Y8 `888                   888            
  888   .d88'  888   .d88'      Y88bo.       888  oooo   .ooooo.   888   .oooo.
@@ -20,3 +20,4 @@ My Website may contain links to external websites that are not provided or maint
 
 Compatibility
 The correctness of the code (HTML5, CSS3 and JavaScript) has been verified on Wiidows (version 10.11 and higher) and macOS (versions 10.12 and higher) operating systems. Verification of the correctness of work was carried out in such major browsers as: Google Chrome, Microsoft Edge, Apple Safari, Mozilla Firefox and Opera.
+-->
